@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -epool eth-eu1.nanopool.org:9999 -ewal 0xf55916b860ed6591e612dd01e131ac86cea1c40a -epsw x
